@@ -1,0 +1,8 @@
+Usuario,Clave,Nombre,Gustos,Preferencias
+user1,pass1,Juan Pérez,"Café Americano, Capuchino",Vegetariano
+user2,pass2,María López,"Té Verde, Ensalada de Frutas",Celiaco
+user3,pass3,Carlos Sánchez,"Café Mocha, Brownie",Intolerante a la lactosa
+user4,pass4,Ana Gómez,"Smoothie de Fresa, Muffin de Arándanos",Alergico al mani
+user5,pass5,Luis Martínez,"Jugo de Naranja, Sandwich de Jamón",Ninguna
+krlos,krlos,Carlos,vegetariano,mocca
+carlos,123,Carlos Hormazabal,me gusta mucho el expresso y la ensalada de fruta,vegetariano

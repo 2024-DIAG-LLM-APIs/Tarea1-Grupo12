@@ -1,0 +1,29 @@
+Nombre,Precio,Tipo,Ingredientes,Sabor
+Espresso,2000,bebida caliente,"Café",Fuerte y concentrado
+Sandwich de Pollo,5000,comida,"Pan, Pollo, Lechuga, Tomate, Mayonesa",Salado y jugoso
+Sandwich Vegetariano,4500,comida,"Pan, Lechuga, Tomate, Pepino, Palta",Fresco y saludable
+Sandwich de Atún,4800,comida,"Pan, Atún, Mayonesa, Lechuga, Tomate",Salado y cremoso
+Sandwich de Pavo,5000,comida,"Pan, Pavo, Queso, Lechuga, Tomate",Salado y nutritivo
+Café Cortado,2500,bebida caliente,"Café, Leche",Fuerte con un toque de leche
+Café Macchiato,2500,bebida caliente,"Café, Espuma de Leche",Fuerte con un toque de espuma
+Café Americano,2500,bebida caliente,"Café, Agua",Fuerte y amargo
+Café Latte,3000,bebida caliente,"Café, Leche",Suave y cremoso
+Café Mocha,3500,bebida caliente,"Café, Leche, Chocolate",Dulce y cremoso con un toque de chocolate
+Té Verde,2000,bebida caliente,"Té Verde, Agua",Refrescante y herbal
+Té Negro,2000,bebida caliente,"Té Negro, Agua",Fuerte y robusto
+Sandwich de Jamón,4500,comida,"Pan, Jamón, Queso, Lechuga, Tomate",Salado y fresco
+Croissant,2500,comida,"Harina, Mantequilla, Azúcar",Dulce y mantecoso
+Jugo de Naranja,3000,bebida fría,Naranjas,Dulce y cítrico
+Smoothie de Fresa,4000,bebida fría,"Fresas, Yogur, Miel",Dulce y afrutado
+Ensalada de Frutas,3500,comida,"Manzana, Plátano, Uvas, Naranja, Fresas",Dulce y refrescante
+Capuchino,3000,bebida caliente,"Café, Leche, Espuma de Leche",Suave y espumoso
+Muffin de Arándanos,2500,comida,"Harina, Arándanos, Azúcar",Dulce y afrutado
+Té Chai,3000,bebida caliente,"Té Chai, Leche, Especias",Dulce y especiado
+Limonada,2500,bebida fría,"Limones, Agua, Azúcar",Dulce y refrescante
+Bagel con Queso Crema,3000,comida,"Bagel, Queso Crema",Salado y cremoso
+Brownie,2000,comida,"Chocolate, Harina, Azúcar",Dulce y chocolatoso
+Batido de Mango,4000,bebida fría,"Mango, Yogur, Miel",Dulce y tropical
+Empanada de Pollo,3500,comida,"Harina, Pollo, Especias",Salado y especiado
+Galleta de Chocolate,1500,comida,"Harina, Chocolate, Azúcar",Dulce y chocolatoso
+Té de Manzanilla,2000,bebida caliente,"Té de Manzanilla, Agua",Suave y floral
+Paila de Huevo,3000,comida,"Huevos, Sal, Aceite",Salado y nutritivo
